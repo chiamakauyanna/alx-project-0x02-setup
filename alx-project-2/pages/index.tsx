@@ -4,9 +4,6 @@ import React from 'react'
 const index = () => {
   return (
     <div>
-      <header>
-        <Header/>
-      </header>
       <h1 className='text-center'>Welcome to my project</h1>
     </div>
   )
