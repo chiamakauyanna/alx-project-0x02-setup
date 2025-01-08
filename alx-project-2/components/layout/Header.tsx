@@ -5,7 +5,7 @@ import Link from "next/link";
 const Header = () => {
   return (
       <div>
-          <ul>
+          <ul className="flex gap-4 mb-6">
               <li>
                   <Link href="/home">Home</Link>
               </li>
